@@ -12,6 +12,7 @@
 ### Office Hours can also be made by appointment!
 
 ## Grading Scale
+
 | % of Total Points | Grade |
 |:---:|:---:|
 | \[93, 100\] | A |
