@@ -14,16 +14,16 @@
 ## Grading Scale
 | % of Total Points | Grade |
 |:---:|:---:|
-| [93, 100] | A |
-| [90, 93) | A- |
-| [87, 90) | B+ |
-| [83, 87) | B |
-| [80, 83) | B- |
-| [77, 80) | C+ |
-| [73, 77) | C |
-| [70, 73) | C- |
-| [65, 70) | D |
-| [0, 65) | F |
+| \[93, 100\] | A |
+| \[90, 93\) | A- |
+| \[87, 90\) | B+ |
+| \[83, 87\) | B |
+| \[80, 83\) | B- |
+| \[77, 80\) | C+ |
+| \[73, 77\) | C |
+| \[70, 73\) | C- |
+| \[65, 70\) | D |
+| \[0, 65\) | F |
 
 ## Attendance and Tardiness
 Students in this course are expected to be present for class meetings. Attendance will be taken each class period. If a student is unable to make a meeting or several meetings, please let me know that you will be unable to attend. Your total allowable absences are dependant upon the number of meetings the class has per week and are displayed below.
