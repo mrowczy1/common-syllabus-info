@@ -7,7 +7,7 @@
 **Office:** SH1029D  
 **Schedule (including Office Hours):**  
 
-![Office Hour Schedule](./Schedule.png)
+![Office Hour Schedule](./schedule/Schedule.png)
 
 ### Office Hours can also be made by appointment!
 
